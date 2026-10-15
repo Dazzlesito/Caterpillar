@@ -1,5 +1,7 @@
 # Caterpillar
 
+**English** | [Español](README.es.md)
+
 A collaborative project maintained by a small team using a **simplified GitHub Flow** workflow.
 
 ## Team
