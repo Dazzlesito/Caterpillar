@@ -8,9 +8,9 @@ A collaborative project maintained by a small team using a **simplified GitHub F
 
 | Member | GitHub | Role |
 | --- | --- | --- |
-| Dazzle | [@Dazzlesito](https://github.com/Dazzlesito) | Maintainer |
-| Xavyer | [@Xavyer77](https://github.com/Xavyer77) | Collaborator |
-| Danilo | [@danilops018](https://github.com/danilops018) | Collaborator |
+| Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) | Maintainer |
+| Robinson Bastidas | [@Xavyer77](https://github.com/Xavyer77) | Collaborator |
+| Daniela Peña | [@danilops018](https://github.com/danilops018) | Collaborator |
 
 ---
 

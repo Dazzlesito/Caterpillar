@@ -8,9 +8,9 @@ Un proyecto colaborativo mantenido por un equipo pequeño usando un flujo de tra
 
 | Miembro | GitHub | Rol |
 | --- | --- | --- |
-| Dazzle | [@Dazzlesito](https://github.com/Dazzlesito) | Mantenedor |
-| Xavyer | [@Xavyer77](https://github.com/Xavyer77) | Colaborador |
-| Danilo | [@danilops018](https://github.com/danilops018) | Colaborador |
+| Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) | Mantenedor |
+| Robinson Bastidas | [@Xavyer77](https://github.com/Xavyer77) | Colaborador |
+| Daniela Peña | [@danilops018](https://github.com/danilops018) | Colaborador |
 
 ---
 
